@@ -288,7 +288,7 @@ header .navbar.sticky-header{
     top: 0px;
     left: 0;
     width: 100%;
-    background: url(../img/imgbg1.jpg) no-repeat top center;
+    background: url(../img/fondo-banner.png) no-repeat top center;
     background-size: cover;
     padding: 220px 0 120px;
 }
@@ -725,7 +725,7 @@ header .navbar.sticky-header{
 /*****     Media Query Css    ****/
 /*********************************/
 
-@media only screen and (max-width: 991px){
+@media only screen and (max-width: 700px){
 	.header .navbar-nav{
 		display: none;
 	}
@@ -810,7 +810,7 @@ header .navbar.sticky-header{
 	}
 }
 
-@media only screen and (max-width: 767px){
+@media only screen and (max-width: 500px){
 	.about-content ul li{
 		width: 100%;
 		float: none;
