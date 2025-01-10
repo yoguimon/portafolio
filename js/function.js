@@ -12,7 +12,7 @@
             var $portfolio = $('.portfolio-boxes').isotope({
                 itemSelector: '.portfolio-box',
                 layoutMode: 'fitRows',
-                filter: '.fullstack' // Mostrar solo los elementos con la clase fullstack al cargar la página
+                filter: '.backend' // Mostrar solo los elementos con la clase fullstack al cargar la página
             });
         
             var $portfolionav = $(".portfolio-nav li a");
